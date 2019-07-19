@@ -8,6 +8,7 @@ class Point{
     }
 }
 
+
 let p= new Point();
 p.x=1;
 p.y=2;
