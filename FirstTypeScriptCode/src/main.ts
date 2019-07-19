@@ -1,6 +1,6 @@
 class Point{
 
-    constructor(private x?:number, private y?:number){
+    constructor(private _x?:number, private _y?:number){
     }
 
     draw(){
